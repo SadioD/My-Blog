@@ -1,0 +1,4 @@
+Madame/Monsieur,\n
+Vous ne vous souvenez plus de votre mot de passe et vous souhaitez le réinitialiser?
+Merci de cliquer sur le lien ci-dessous. Attention, vous devez le faire dans un délai de
+15 minutes à compter de la date de réception de l'email.

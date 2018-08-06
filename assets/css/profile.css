@@ -1,0 +1,13 @@
+#intro p {
+    margin: 0px;
+}
+#preferences {
+    color: blue;
+}
+.updateButton {
+    margin-top: 10px;
+}
+
+.updateButton > a {
+    border-radius: 4px;
+}

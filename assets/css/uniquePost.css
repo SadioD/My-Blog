@@ -1,0 +1,43 @@
+/* Les liens commentaires*/
+ #replyLink, #nestLink {
+     color : rgb(20, 63, 171);
+     text-decoration: none;
+ }
+
+ #replyLink:hover, #nestLink:hover {
+     color : rgb(0, 133, 161);
+     text-decoration: none;
+ }
+
+.commentBox {
+    background: rgba(170, 165, 171, 0.11);
+    border-radius: 4px;
+}
+
+.nestComment {
+    background: rgba(170, 165, 171, 0.09);
+    border-radius: 4px;
+}
+
+.likeButtons {
+    background: rgb(20, 63, 171);
+    border-radius: 3px;
+    text-decoration: none;
+}
+
+.likeButtons:hover {
+    background: rgb(0, 133, 161);
+}
+
+.downloadButton {
+    border-radius: 3px;
+}
+
+.timeAgo {
+    font-size: 87%;
+    color: gray;
+}
+
+.timeAgo em {
+
+}

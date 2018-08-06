@@ -1,0 +1,15 @@
+/* Les icones colonnes Action*/
+ .icones {
+     color : rgb(20, 63, 171);
+
+ }
+
+ .box {
+     background: rgba(170, 165, 171, 0.1);
+     border-radius: 4px;
+ }
+
+ /* Icone et texte - RESULTAT NOT FOUND */
+.notFound {
+     color: rgba(2, 10, 19, 0.6);
+ }

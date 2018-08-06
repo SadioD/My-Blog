@@ -1,0 +1,25 @@
+/* Zone de recherche */
+#searchDiv {
+    display: none;
+    width: 217px;
+    height: 80px;
+    background: rgba(2, 10, 19, 0.5);
+    position: absolute;
+    right: 13px;
+    top: 43px;
+    color: lightgray;
+    font-size: 75%;
+}
+.focus {
+    background: rgba(2, 10, 19, 0.6);
+    color: white;
+}
+
+@media only screen and (max-width: 992px) {
+    #mainNav {
+        background: lightgray;
+    }
+    #searchDiv {
+        display: none;
+    }
+}

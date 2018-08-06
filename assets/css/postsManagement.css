@@ -1,0 +1,47 @@
+/* Les icones colonnes Action*/
+ .icones {
+     color : rgb(20, 63, 171);
+
+ }
+
+ .box {
+     background: rgba(170, 165, 171, 0.1);
+     border-radius: 4px;
+ }
+
+/* Overlay */
+#setOverlay {
+    position: fixed; /* Sit on top of the page content */
+    display: none; /* Hidden by default */
+    width: 100%; /* Full width (cover the whole page) */
+    height: 100%; /* Full height (cover the whole page) */
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0,0,0,0.7); /* Black background with opacity */
+    z-index: 2; /* Specify a stack order in case you're using a different order for other elements */
+    cursor: pointer; /* Add a pointer on hover */
+}
+
+/* Ajax Progress Event message */
+#progressDiv {
+    display: none;
+    position: fixed;
+    top: 46%;
+    left: 34%;
+    background: white;
+    width: 350px;
+    text-align: center;
+    z-index: 3;
+}
+
+
+@media (max-width: 640px) {
+    #progressDiv {
+        position: fixed;
+        top: 46%;
+        left: 11%;
+        z-index: 3;
+    }
+}

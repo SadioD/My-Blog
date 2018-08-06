@@ -1,0 +1,23 @@
+.connectForm {
+  background: rgba(124, 122, 121, 0.10);
+}
+.tab-content {
+    padding: 5%;
+}
+#signup > h1 {
+    text-align: center;
+}
+.group {
+    margin-bottom: 5%;
+}
+textarea {
+    height: 200px;
+    background: white !important;
+}
+button {
+    border-radius: 4px !important;
+}
+.formError {
+    color: red !important;
+    font-style: italic;
+}
